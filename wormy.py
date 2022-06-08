@@ -15,11 +15,14 @@
 #########################################################################
 
 
-AIred = False
+AIred = True
 AIblue = True    
-addWalls = 0    # amount of walls you want (I recommend not going over 10 but you do you)
+addWalls = 10    # amount of walls you want (I recommend not going over 10 but you do you)
 
-
+FPS = 20     # change the speed of the snakes
+WINDOWWIDTH = 1290
+WINDOWHEIGHT = 630
+CELLSIZE = 30
 
 
 import random, pygame, sys
@@ -37,10 +40,7 @@ down1Key = K_s
 left1Key = K_q
 right1Key = K_d
 
-FPS = 6
-WINDOWWIDTH = 1290
-WINDOWHEIGHT = 630
-CELLSIZE = 30
+
 MENUICONSIZE = 200
 assert WINDOWWIDTH % CELLSIZE == 0, "Window width must be a multiple of cell size."
 assert WINDOWHEIGHT % CELLSIZE == 0, "Window height must be a multiple of cell size."
