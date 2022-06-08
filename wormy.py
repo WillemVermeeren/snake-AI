@@ -1,15 +1,15 @@
 #########################################################################
 # REAME!
 #
-# This program is based of a program made by Al Swaigart:
+# This program is based on a program made by Al Swaigart:
 # Wormy (a Nibbles clone)
 # By Al Sweigart al@inventwithpython.com
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
 #
-# modefied by Willem Vermeeren
+# modified by Willem Vermeeren
 #
-# You're able to add walls and enable and disable AI bye changing the first 3 variables
+# You're able to add walls and enable and disable AI by changing the first 3 variables
 #
 # HF!
 #########################################################################
