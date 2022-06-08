@@ -7,7 +7,7 @@
 # http://inventwithpython.com/pygame
 # Released under a "Simplified BSD" license
 #
-# modefied bye Willem Vermeeren
+# modefied by Willem Vermeeren
 #
 # You're able to add walls and enable and disable AI bye changing the first 3 variables
 #
